@@ -1,11 +1,11 @@
 import Footer from "../commane/footer";
-import Headar from "../commane/headar";
+import Headar from "../commane/Header";
 import { Link } from "react-router-dom";
 
 function About() {
   return (
     <div className="min-h-screen bg-white text-gray-900">
-      <Headar />
+      <Header />
 
       {/* Hero Section */}
       <section className="bg-white px-6 py-12 text-center">

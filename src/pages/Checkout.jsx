@@ -1,7 +1,7 @@
 
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import Headar from "../commane/headar";
+import Headar from "../commane/Header";
 import Footer from "../commane/footer";
 import axios from "axios";
 

@@ -1,7 +1,7 @@
 
 import { useEffect, useState } from "react";
 import Footer from "../commane/footer";
-import Headar from "../commane/headar";
+import Headar from "../commane/Header";
 import Section from "../commane/Section";
 import axios from "axios";
 

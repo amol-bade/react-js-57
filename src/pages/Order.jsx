@@ -1,5 +1,5 @@
 
-import Headar from "../commane/headar";
+import Headar from "../commane/Header";
 import Footer from "../commane/footer";
 import { useEffect, useState } from "react";
 import axios from "axios";

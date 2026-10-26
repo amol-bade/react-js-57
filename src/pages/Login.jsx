@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Headar from "../commane/headar";
+import Headar from "../commane/Header";
 import Footer from "../commane/footer";
 import { Link } from "react-router-dom";
 import axios from "axios";
